@@ -1,7 +1,7 @@
-import xml.dom.minidom
 import sys
+import xml.dom.minidom
 
-x = "C:/Users/Javier/Downloads/MTDeterminista1C.xml"
+x = "1. Suma de enteros base UNO\SU-MTDeterminista1C.jff"
 doc = xml.dom.minidom.parse(x)
 
 states = {}
