@@ -1,7 +1,7 @@
 import sys
 import xml.dom.minidom
 
-x = "1. Suma de enteros base UNO\SU-MTDeterminista1C.jff"
+x = "1. Suma de enteros base UNO\SU-MTDeterminista2C.jff"
 doc = xml.dom.minidom.parse(x)
 
 states = {}
