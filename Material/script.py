@@ -1,7 +1,7 @@
 import sys
 import xml.dom.minidom
 
-x = "4. Palabras de estructura triplicada\PET-MTDeterminista2C.jff"
+x = ""
 doc = xml.dom.minidom.parse(x)
 
 states = {}
